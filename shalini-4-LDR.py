@@ -5,6 +5,9 @@
 
 # Must be run as root - sudo python blink11.py 
 
+#ALBI WAS HERE
+#ALBI WAS HERE
+
 import time
 import RPi.GPIO as Shali
 
